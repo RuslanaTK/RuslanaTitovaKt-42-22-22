@@ -1,7 +1,76 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C2\\RuslanaTitovaKt42-22-22\\",
-  "Documents": [],
+  "WorkspaceRootPath": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|e:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\ruslanatitovakt42-22-22\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|solutionrelative:ruslanatitovakt42-22-22\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|e:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\ruslanatitovakt42-22-22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|solutionrelative:ruslanatitovakt42-22-22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|e:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\ruslanatitovakt42-22-22\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|solutionrelative:ruslanatitovakt42-22-22\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|e:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\ruslanatitovakt42-22-22\\models\\academicdegree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|solutionrelative:ruslanatitovakt42-22-22\\models\\academicdegree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|e:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\ruslanatitovakt42-22-22\\models\\cathedral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|solutionrelative:ruslanatitovakt42-22-22\\models\\cathedral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|e:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\ruslanatitovakt42-22-22\\database\\cathedraldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|solutionrelative:ruslanatitovakt42-22-22\\database\\cathedraldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|e:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\ruslanatitovakt42-22-22\\database\\configurations\\academicdegreeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|solutionrelative:ruslanatitovakt42-22-22\\database\\configurations\\academicdegreeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|e:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\ruslanatitovakt42-22-22\\models\\workload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|solutionrelative:ruslanatitovakt42-22-22\\models\\workload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|e:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\ruslanatitovakt42-22-22\\database\\helpers\\columntype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|solutionrelative:ruslanatitovakt42-22-22\\database\\helpers\\columntype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|e:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\ruslanatitovakt42-22-22\\database\\configurations\\workloadconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|solutionrelative:ruslanatitovakt42-22-22\\database\\configurations\\workloadconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|e:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\ruslanatitovakt42-22-22\\database\\configurations\\teacherconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|solutionrelative:ruslanatitovakt42-22-22\\database\\configurations\\teacherconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|e:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\ruslanatitovakt42-22-22\\database\\configurations\\disciplineconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|solutionrelative:ruslanatitovakt42-22-22\\database\\configurations\\disciplineconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|e:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\ruslanatitovakt42-22-22\\database\\configurations\\cathedralconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|solutionrelative:ruslanatitovakt42-22-22\\database\\configurations\\cathedralconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|e:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\ruslanatitovakt42-22-22\\database\\configurations\\positionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|solutionrelative:ruslanatitovakt42-22-22\\database\\configurations\\positionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|e:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\ruslanatitovakt42-22-22\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|solutionrelative:ruslanatitovakt42-22-22\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|e:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\ruslanatitovakt42-22-22\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|solutionrelative:ruslanatitovakt42-22-22\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|e:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\ruslanatitovakt42-22-22\\models\\discipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A76EE36-68E9-43B2-9729-62FD7384C6D7}|RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj|solutionrelative:ruslanatitovakt42-22-22\\models\\discipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +78,212 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "RuslanaTitovaKt42-22-22\\appsettings.Development.json",
+              "ToolTip": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\appsettings.Development.json",
+              "RelativeToolTip": "RuslanaTitovaKt42-22-22\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-25T22:37:00.353Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\Program.cs",
+              "RelativeDocumentMoniker": "RuslanaTitovaKt42-22-22\\Program.cs",
+              "ToolTip": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\Program.cs",
+              "RelativeToolTip": "RuslanaTitovaKt42-22-22\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:37:27.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "RuslanaTitovaKt42-22-22\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "RuslanaTitovaKt42-22-22\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:39:59.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AcademicDegree.cs",
+              "DocumentMoniker": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\Models\\AcademicDegree.cs",
+              "RelativeDocumentMoniker": "RuslanaTitovaKt42-22-22\\Models\\AcademicDegree.cs",
+              "ToolTip": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\Models\\AcademicDegree.cs",
+              "RelativeToolTip": "RuslanaTitovaKt42-22-22\\Models\\AcademicDegree.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:59:08.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cathedral.cs",
+              "DocumentMoniker": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\Models\\Cathedral.cs",
+              "RelativeDocumentMoniker": "RuslanaTitovaKt42-22-22\\Models\\Cathedral.cs",
+              "ToolTip": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\Models\\Cathedral.cs",
+              "RelativeToolTip": "RuslanaTitovaKt42-22-22\\Models\\Cathedral.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:59:34.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CathedralDbContext.cs",
+              "DocumentMoniker": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\DataBase\\CathedralDbContext.cs",
+              "RelativeDocumentMoniker": "RuslanaTitovaKt42-22-22\\DataBase\\CathedralDbContext.cs",
+              "ToolTip": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\DataBase\\CathedralDbContext.cs",
+              "RelativeToolTip": "RuslanaTitovaKt42-22-22\\DataBase\\CathedralDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:57:58.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ColumnType.cs",
+              "DocumentMoniker": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\DataBase\\Helpers\\ColumnType.cs",
+              "RelativeDocumentMoniker": "RuslanaTitovaKt42-22-22\\DataBase\\Helpers\\ColumnType.cs",
+              "ToolTip": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\DataBase\\Helpers\\ColumnType.cs",
+              "RelativeToolTip": "RuslanaTitovaKt42-22-22\\DataBase\\Helpers\\ColumnType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:56:56.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Workload.cs",
+              "DocumentMoniker": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\Models\\Workload.cs",
+              "RelativeDocumentMoniker": "RuslanaTitovaKt42-22-22\\Models\\Workload.cs",
+              "ToolTip": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\Models\\Workload.cs",
+              "RelativeToolTip": "RuslanaTitovaKt42-22-22\\Models\\Workload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:00:32.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WorkloadConfiguration.cs",
+              "DocumentMoniker": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\DataBase\\Configurations\\WorkloadConfiguration.cs",
+              "RelativeDocumentMoniker": "RuslanaTitovaKt42-22-22\\DataBase\\Configurations\\WorkloadConfiguration.cs",
+              "ToolTip": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\DataBase\\Configurations\\WorkloadConfiguration.cs",
+              "RelativeToolTip": "RuslanaTitovaKt42-22-22\\DataBase\\Configurations\\WorkloadConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:56:19.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AcademicDegreeConfiguration.cs",
+              "DocumentMoniker": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\DataBase\\Configurations\\AcademicDegreeConfiguration.cs",
+              "RelativeDocumentMoniker": "RuslanaTitovaKt42-22-22\\DataBase\\Configurations\\AcademicDegreeConfiguration.cs",
+              "ToolTip": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\DataBase\\Configurations\\AcademicDegreeConfiguration.cs",
+              "RelativeToolTip": "RuslanaTitovaKt42-22-22\\DataBase\\Configurations\\AcademicDegreeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:53:58.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TeacherConfiguration.cs",
+              "DocumentMoniker": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\DataBase\\Configurations\\TeacherConfiguration.cs",
+              "RelativeDocumentMoniker": "RuslanaTitovaKt42-22-22\\DataBase\\Configurations\\TeacherConfiguration.cs",
+              "ToolTip": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\DataBase\\Configurations\\TeacherConfiguration.cs",
+              "RelativeToolTip": "RuslanaTitovaKt42-22-22\\DataBase\\Configurations\\TeacherConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:56:02.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DisciplineConfiguration.cs",
+              "DocumentMoniker": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\DataBase\\Configurations\\DisciplineConfiguration.cs",
+              "RelativeDocumentMoniker": "RuslanaTitovaKt42-22-22\\DataBase\\Configurations\\DisciplineConfiguration.cs",
+              "ToolTip": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\DataBase\\Configurations\\DisciplineConfiguration.cs",
+              "RelativeToolTip": "RuslanaTitovaKt42-22-22\\DataBase\\Configurations\\DisciplineConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:55:32.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CathedralConfiguration.cs",
+              "DocumentMoniker": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\DataBase\\Configurations\\CathedralConfiguration.cs",
+              "RelativeDocumentMoniker": "RuslanaTitovaKt42-22-22\\DataBase\\Configurations\\CathedralConfiguration.cs",
+              "ToolTip": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\DataBase\\Configurations\\CathedralConfiguration.cs",
+              "RelativeToolTip": "RuslanaTitovaKt42-22-22\\DataBase\\Configurations\\CathedralConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:54:59.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PositionConfiguration.cs",
+              "DocumentMoniker": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\DataBase\\Configurations\\PositionConfiguration.cs",
+              "RelativeDocumentMoniker": "RuslanaTitovaKt42-22-22\\DataBase\\Configurations\\PositionConfiguration.cs",
+              "ToolTip": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\DataBase\\Configurations\\PositionConfiguration.cs",
+              "RelativeToolTip": "RuslanaTitovaKt42-22-22\\DataBase\\Configurations\\PositionConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:55:49.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "RuslanaTitovaKt42-22-22\\Models\\Teacher.cs",
+              "ToolTip": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\Models\\Teacher.cs",
+              "RelativeToolTip": "RuslanaTitovaKt42-22-22\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:00:21.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Position.cs",
+              "DocumentMoniker": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "RuslanaTitovaKt42-22-22\\Models\\Position.cs",
+              "ToolTip": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\Models\\Position.cs",
+              "RelativeToolTip": "RuslanaTitovaKt42-22-22\\Models\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:00:05.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Discipline.cs",
+              "DocumentMoniker": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\Models\\Discipline.cs",
+              "RelativeDocumentMoniker": "RuslanaTitovaKt42-22-22\\Models\\Discipline.cs",
+              "ToolTip": "E:\\\u043C\u0443\u0441\u043E\u0440\u043A\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\RuslanaTitovaKt42-22-22\\Models\\Discipline.cs",
+              "RelativeToolTip": "RuslanaTitovaKt42-22-22\\Models\\Discipline.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:59:50.661Z"
             }
           ]
         }

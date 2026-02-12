@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Практикум\\RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj": {}
+    "E:\\мусорка\\Практикум\\RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj": {}
   },
   "projects": {
-    "D:\\Практикум\\RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj": {
+    "E:\\мусорка\\Практикум\\RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Практикум\\RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj",
+        "projectUniqueName": "E:\\мусорка\\Практикум\\RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj",
         "projectName": "RuslanaTitovaKt42-22-22",
-        "projectPath": "D:\\Практикум\\RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Практикум\\RuslanaTitovaKt42-22-22\\obj\\",
+        "projectPath": "E:\\мусорка\\Практикум\\RuslanaTitovaKt42-22-22\\RuslanaTitovaKt42-22-22.csproj",
+        "packagesPath": "C:\\Users\\K-16\\.nuget\\packages\\",
+        "outputPath": "E:\\мусорка\\Практикум\\RuslanaTitovaKt42-22-22\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\K-16\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -42,9 +42,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net7.0": {
@@ -53,6 +53,26 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.19, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[5.4.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.11, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -78,7 +98,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
